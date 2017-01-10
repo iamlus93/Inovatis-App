@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Inovatis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Note pad string-->
+    <string name="addnote">Add Note</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_edit">EditActivity</string>
+
+
+    <!-- Contact string-->
+
+    <string name="hint_email">Enter Email Addres</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_mobile">Enter Mobile Number</string>
+    <string name="contacts_title">Enter Contact Details</string>
+    <string name="positive">Save</string>
+    <string name="negative">Cancel</string>
+    <string name="title_activity_add_edit">AddEdit</string>
+    <string name="title_activity_edit_delete">EditDelete</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_search_contact">SearchContact</string>
+    <string-array name="optionsArray" >
+        <item>Search By</item>
+        <item>Name</item>
+        <item>Email</item>
+        <item>Phone</item>
+    </string-array>
+</resources>
